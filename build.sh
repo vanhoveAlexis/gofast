@@ -1,5 +1,7 @@
 #!/bin/sh
 
+sphinx-quickstart
+
 if [ ! $1 ]
 then
     echo "No language to build specified"
