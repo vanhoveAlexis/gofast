@@ -14,7 +14,7 @@
 
 import sys, os, subprocess, shutil
 
-import effektif_sphinx_theme
+#import effektif_sphinx_theme
 
 
 def touch(name, times=None):
