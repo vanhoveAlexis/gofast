@@ -3,7 +3,7 @@ GoFast : Known issues
 ======================
 
 
-.. CAUTION:: If you subscribed for GoFAST Enterprise and you don`t find the answers to your questions below it is important (after checking that you follow pre-requirements) to provide some information to CEO-vision support about the type of software you use (Windows, Mac, Linux), operating system version, browser type and version, if necessary the version of the office suite (MS-Office, LibreOffice, ...). You can alsoconsult in the forum: https://community.ceo-vision.com
+.. CAUTION:: If you subscribed for GoFAST Enterprise and you don`t find the answers to your questions below it is important (after checking that you follow pre-requirements) to provide some information to CEO-vision support about the type of software you use (Windows, Mac, Linux), operating system version, browser type and version, if necessary the version of the office suite (MS-Office, LibreOffice, ...). You can also consult in the forum: https://community.ceo-vision.com
 
 Office issues
 ================================================
