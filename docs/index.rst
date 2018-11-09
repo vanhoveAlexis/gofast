@@ -3,5 +3,5 @@
    :maxdepth: 1
    :caption:  GoFAST User documentation
 
-   en/doc-gofast-known-issues
-   en/doc-gofast-advanced-use
+   docs/en/doc-gofast-known-issues
+   docs/en/doc-gofast-advanced-use
