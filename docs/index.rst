@@ -4,4 +4,4 @@
    :caption:  GoFAST User documentation
 
    en/doc-gofast-known-issues
-   en/doc-gofast-utilisation-avancee
+   en/doc-gofast-advanced-use
