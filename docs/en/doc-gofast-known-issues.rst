@@ -14,7 +14,7 @@ For example, here is the version 1801
 
 .. figure:: media-guide/trouver-version-excel.png
 
-Notification “Impossible to connect to ... Please check the web address you use is correct".
+Notification "Impossible to connect to ... Please check the web address you use is correct"
 --------------------------------------------------------
 MS-Office does not support paths longer than 240 characters. For solving such issue you should do one of actions below:
 
