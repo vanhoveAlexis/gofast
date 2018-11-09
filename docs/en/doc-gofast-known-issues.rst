@@ -9,7 +9,7 @@ Office issues
 ================================================
 Find out the version of the Office suite you use
 ------------------------------------------------
-In case when an issue relates to the application of MS-Office suite it is important to know what kind of its version you have and if the updates are automatically installed. The Office version can be found "About Excel". 
+In case when an issue relates to the application of MS-Office suite it is important to know what kind of its version you have and if the updates are automatically installed. The Office version can be found in "About Excel". 
 For example, here is the version 1801
 
 .. figure:: media-guide/trouver-version-excel.png
