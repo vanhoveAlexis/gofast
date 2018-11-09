@@ -32,8 +32,8 @@ There are two solutions to fix such issue:
 
 1/ Instead of “Save”, choose “Save as”, then click on “Recent files” and select the folder where your file will be kept. Save your version overwriting the file which is on the server.
 
-.. figure:: media-guide/MS_1.png
-   :alt:
+.. figure:: img/image-excel-save-as.png
+   :alt: image-excel-save-as.png
 
 If Office tells you that saving cannot be done, follow the procedure below.
 
