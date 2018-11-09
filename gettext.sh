@@ -1,3 +1,2 @@
 
-make gettext
-sphinx-intl update -p _build/locale fr
+sphinx-intl update -p _build/gettext -l fr_FR
