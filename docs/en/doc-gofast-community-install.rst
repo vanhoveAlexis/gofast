@@ -5,9 +5,9 @@ GoFAST Community :  Installation
 Instructions (par image)
 ------------
 
-–Step 1: Download the image https://www.ceo-vision.com/fr/content/gofast-community-ged-plateforme-collaborative-opensource (.ova, ...)
+–Step 1: Download the image https://www.ceo-vision.com/en/content/gofast-community-ged-plateforme-collaborative-opensource (.ova, ...)
 
-–Step 2: Start the instance on your VirtualMachine 
+–Step 2: Start the instance on your VirtualMachine (VMWare, HyperV, ...)
 
 –Step 3: Login to your instance with the follwing inforamtions: 
 
