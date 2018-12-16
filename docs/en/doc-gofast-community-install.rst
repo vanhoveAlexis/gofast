@@ -25,7 +25,7 @@ and enter IPADDR  =  Choosen address instead of “192.168.8.212”
 Configuration
 -------------
 
-.. figure:: ../img/Logo-Community.png
+.. figure:: img/Logo-Community.png
    :alt: 
 
 Pour toutes les informations concernant les pré-requis et l'installation de GoFAST sur le serveur, 
@@ -64,7 +64,7 @@ Etape 2 : Configure SSL Certificate
 
 At this step you will have 2 configuraiton possibilities.
 
-.. figure:: /img/gf-commnuity-import-certificate.png 
+.. figure:: img/gf-commnuity-import-certificate.png 
    :alt: import certificate
 
 The first option (recommended) is to upload your own SSL certificates 
@@ -118,12 +118,9 @@ This step will define the 'administrator' account who will have access to severa
 
 You will have to choose a login, password and email address linked to this 'admin' account 
 
-.. figure:: /media-guide/Create-Admin-User-1.png
+.. figure:: img/gf-community-create-admin-user.png
    :alt:
    
-.. figure:: /media-guide/Create-Admin-User-2.png
-   :alt:
-
 
 Step 5 : Finish Configuration 
 ------------------------------
@@ -134,7 +131,7 @@ This last step is a summary of all informations entered in the previous steps fo
    After clicking on "Finish Configuration" you will not be able to come back to the previous steps, 
    please check every fields before submitting 
 
-.. figure:: /media-guide/Finish-Configuration-Community.png
+.. figure:: img/gf-community-finish-configuration.png
    :alt: 
    
 
