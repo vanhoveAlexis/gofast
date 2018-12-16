@@ -25,7 +25,7 @@ and enter IPADDR  =  Choosen address instead of “192.168.8.212”
 Configuration
 -------------
 
-.. figure:: /gofast/docs/en/img/Logo-Community.png
+.. figure:: gofast/docs/en/img/Logo-Community.png
    :alt: 
 
 Pour toutes les informations concernant les pré-requis et l'installation de GoFAST sur le serveur, 
