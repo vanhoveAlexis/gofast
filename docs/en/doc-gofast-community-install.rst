@@ -50,7 +50,7 @@ Step 1 : Define Domain Name
 
 Configuration screen looks like: 
 
-.. figure:: /media-guide/Change-Name-Domaine.png 
+.. figure:: img/gf-community-define-domain-name.png 
 
 On this screen you will describe every part of the FQDN of GoFAST, ex. ``gofast.ceo-vision.com`` : 
 
