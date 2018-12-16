@@ -25,7 +25,7 @@ and enter IPADDR  =  Choosen address instead of “192.168.8.212”
 Configuration
 -------------
 
-.. figure:: /media-guide/Logo-Community.png
+.. figure:: /img/Logo-Community.png
    :alt: 
 
 Pour toutes les informations concernant les pré-requis et l'installation de GoFAST sur le serveur, 
@@ -64,8 +64,8 @@ Etape 2 : Configure SSL Certificate
 
 At this step you will have 2 configuraiton possibilities.
 
-.. figure:: /media-guide/Configure-SSL-1.png 
-   :alt: 
+.. figure:: /img/gf-commnuity-import-certificate.png 
+   :alt: import certificate
 
 The first option (recommended) is to upload your own SSL certificates 
   - **Key Private** :
