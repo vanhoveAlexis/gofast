@@ -11,9 +11,12 @@ Instructions (from image)
 
 –Step 2: Start the instance on your VirtualMachine (VMWare, HyperV, ...)
 
-–Step 3: Login to your instance with the follwing inforamtions: 
+–Step 3: Login to your instance with the following informations: 
 
 ``login : root`` ``password : @C0mmunity!`` (with a 0 not O) 
+
+.. WARNING :: 
+   Change immediately your root password 
 
 –Step 4: Configure the IP address in for example  ``/etc/sysconfig/network-scripts/ifcfg-enp0s3`` 
 and enter IPADDR  =  Choosen address instead of “192.168.8.212”
