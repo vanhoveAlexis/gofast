@@ -77,11 +77,8 @@ The first option (recommended) is to upload your own SSL certificates
 The second option gives you the ability to create a self signed certificate. 
 Several mandatory fields will be requested :
 
-.. figure:: /media-guide/Configure-SSL-1-modified.png 
-   :alt:
+.. figure:: img/gf-community-create-self-signed-certificate.png
    
-.. figure:: /media-guide/Configure-SSL-Certificate-2.png
-   :alt: 
       
    1. **Country**
    2. **State or Province**
