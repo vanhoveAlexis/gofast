@@ -95,11 +95,9 @@ Step 3 : Configure SMTP Server
 
 This third step will help you to configure the SMTP server used by GoFAST: 
 
-.. figure:: /media-guide/Configure-SMTP-1.png
+.. figure:: img/gf-community-smtp-config.png
    :alt:
-   
-.. figure:: /media-guide/Configure-SMTP-2.png
-   :alt: 
+ 
    
 The different fields requested : 
 
