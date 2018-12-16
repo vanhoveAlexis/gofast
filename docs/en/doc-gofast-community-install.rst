@@ -64,7 +64,7 @@ Etape 2 : Configure SSL Certificate
 
 At this step you will have 2 configuraiton possibilities.
 
-.. figure:: img/gf-commnuity-import-certificate.png 
+.. figure:: img/gf-community-import-certificate.png 
    :alt: import certificate
 
 The first option (recommended) is to upload your own SSL certificates 
