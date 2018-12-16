@@ -54,7 +54,7 @@ Configuration screen looks like:
 
 On this screen you will describe every part of the FQDN of GoFAST, ex. ``gofast.ceo-vision.com`` : 
 
-   1. **New Sub-Domain** : This is the subdomain of the GoFAST, ex. ``gofast.``
+   1. **New Sub-Domain** : This is the subdomain of the GoFAST, ex. ``gofast``
    2. **New Domain** : This is usualy the domain of your organisation ex. ``ceo-vision`` 
    3. **New extension** : This is the TLD, the last part of the url ex. ``com`` 
 
