@@ -2,7 +2,9 @@
 GoFAST Community :  Installation
 ********************************************
 
-Instructions (par image)
+.. note:: GoFAST Community will be soon available on AWS
+
+Instructions (from image)
 ------------
 
 –Step 1: Download the image https://www.ceo-vision.com/en/content/gofast-community-ged-plateforme-collaborative-opensource (.ova, ...)
