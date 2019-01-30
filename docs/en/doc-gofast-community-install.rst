@@ -2,7 +2,7 @@
 GoFAST Community :  Installation
 ********************************************
 
-.. note:: GoFAST Community will be soon available on AWS
+.. note:: GoFAST Community will be soon available on AWS Marketplace
 
 Instructions (from image)
 ------------
