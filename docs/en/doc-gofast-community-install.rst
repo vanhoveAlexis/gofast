@@ -4,6 +4,8 @@ GoFAST Community :  Installation
 
 .. note:: GoFAST Community will be soon available on AWS Marketplace
 
+.. note:: If you have problems, you can ask some help on our Community forums:  https://community.ceo-vision.com
+
 Instructions (from image)
 ------------
 
@@ -32,7 +34,6 @@ Configuration
    :alt: 
 
 For all informations about pre-requisites please check this page (French for now) : https://gofast-docs.readthedocs.io/fr/latest/docs-gofast-technical/gofast-docs-prerequis-installation-serveur.html#gofast-pre-requis-et-installation-serveur
-.. note:: If you have problems, you can ask some help on our Community forums :  https://community.ceo-vision.com
 
 .. note:: To configure your GoFAST Community instance, please enter the IP address of the GoFAST server. 
           Example : http://35.180.66.5
