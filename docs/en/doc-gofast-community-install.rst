@@ -31,11 +31,10 @@ Configuration
 .. figure:: img/Logo-Community.png
    :alt: 
 
-Pour toutes les informations concernant les pré-requis et l'installation de GoFAST sur le serveur, 
-veuillez vous diriger vers cette page : https://gofast-docs.readthedocs.io/fr/latest/docs-gofast-technical/gofast-docs-prerequis-installation-serveur.html#gofast-pre-requis-et-installation-serveur
+For all informations about pre-requisites please check this page (French for now) : https://gofast-docs.readthedocs.io/fr/latest/docs-gofast-technical/gofast-docs-prerequis-installation-serveur.html#gofast-pre-requis-et-installation-serveur
+.. note:: If you have problems, you can ask some help on our Community forums :  https://community.ceo-vision.com
 
-
-.. note:: Afin de pouvoir configurer votre GoFAST Community, vous devez tout d'abord vous rendre sur l'adresse IP correspondant à votre serveur (sur lequel vous avez instancié GoFAST). 
+.. note:: To configure your GoFAST Community instance, please enter the IP address of the GoFAST server. 
           Example : http://35.180.66.5
 
 5 steps are required to finish the GoFAST Community configuration : 
