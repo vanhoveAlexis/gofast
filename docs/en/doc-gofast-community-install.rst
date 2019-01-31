@@ -21,7 +21,7 @@ Instructions (from image)
 –Step 4: Configure the IP address in for example  ``/etc/sysconfig/network-scripts/ifcfg-enp0s3`` 
 and enter IPADDR  =  Choosen address instead of “192.168.8.212”
 
-–Step 5: Definie the FQDN ex. ``gofast-community.mydomain.com`` corresponding to your IP in your hosts file or DNS
+–Step 5: Define the FQDN ex. ``gofast-community.mydomain.com`` corresponding to your IP in your hosts file or DNS
 
 –Step 6: Enter ``https://gofast-community.mydomain.com`` and configure the platform
 
