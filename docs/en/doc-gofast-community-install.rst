@@ -3,8 +3,9 @@ GoFAST Community :  Installation
 ********************************************
 
 .. note:: If you have problems, you can ask some help on our Community forums:  https://community.ceo-vision.com
-Instructions (for AWS Marketplace)
 
+Instructions (for AWS Marketplace)
+------------
 https://aws.amazon.com/marketplace/pp/B07NPZHPG3
 
 Instructions (from image)
