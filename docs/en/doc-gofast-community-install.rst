@@ -15,19 +15,16 @@ Instructions (from image)
 
 –Step 2: Start the instance on your VirtualMachine (VMWare, HyperV, ...)
 
-–Step 3: Login to your instance with the following informations: 
+–Step 3: Assign an IP address on the Virtual Machine: 
 
-``login : root`` ``password : @C0mmunity!`` (with a 0 not O) 
+ For you information ``login : root`` ``password : @C0mmunity!`` (with a 0 not O)
 
 .. WARNING :: 
    Change immediately your root password 
 
-–Step 4: Configure the IP address in for example  ``/etc/sysconfig/network-scripts/ifcfg-enp0s3`` 
-and enter IPADDR  =  Choosen address instead of “192.168.8.212”
+–Step 4: Enter ``https://your_ip_address`` and configure the platform
 
-–Step 5: Define the FQDN ex. ``gofast-community.mydomain.com`` corresponding to your IP in your hosts file or DNS
-
-–Step 6: Enter ``https://gofast-community.mydomain.com`` and configure the platform
+-Step 5: To access the platform via an FQDN, please configure your DNS or /etc/hosts file
 
 Configuration
 -------------
