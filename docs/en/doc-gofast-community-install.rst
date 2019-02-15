@@ -8,7 +8,7 @@ Instructions (for AWS Marketplace)
 ------------
 https://aws.amazon.com/marketplace/pp/B07NPZHPG3
 
-Instantiate GoFAST then go to the `Configure section`_
+Instantiate GoFAST then go to the `Configuration`_ section
 
 Instructions (from image)
 ------------
