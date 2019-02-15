@@ -37,7 +37,7 @@ Configuration
 For all informations about pre-requisites please check this page (French for now) : https://gofast-docs.readthedocs.io/fr/latest/docs-gofast-technical/gofast-docs-prerequis-installation-serveur.html#gofast-pre-requis-et-installation-serveur
 
 .. note:: To configure your GoFAST Community instance, please enter the IP address of the GoFAST server. 
-          Example : http://35.180.66.5
+          Example : https://35.180.66.5
 
 5 steps are required to finish the GoFAST Community configuration : 
 
@@ -50,7 +50,7 @@ For all informations about pre-requisites please check this page (French for now
 You will find below detailed configuration for every steps and what is the purpose of every fields requiered.
 
 Step 1 : Define Domain Name
--------------------
+`````````````
 
 Configuration screen looks like: 
 
@@ -134,5 +134,5 @@ This last step is a summary of all informations entered in the previous steps fo
    :alt: 
    
 
-
-   
+Get Started ! 
+-------------
