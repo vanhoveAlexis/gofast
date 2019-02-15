@@ -64,7 +64,7 @@ On this screen you will describe every part of the FQDN of GoFAST, ex. ``gofast.
 
 
 Step 2 : Configure SSL Certificate 
------------------------------------
+`````````````
 
 At this step you will have 2 configuraiton possibilities.
 
@@ -92,7 +92,7 @@ Several mandatory fields will be requested :
 
 
 Step 3 : Configure SMTP Server 
--------------------------------
+`````````````
 
 This third step will help you to configure the SMTP server used by GoFAST: 
 
@@ -111,7 +111,7 @@ The different fields requested :
 
 
 Step 4 : Create Admin User
----------------------------
+`````````````
 
 This step will define the 'administrator' account who will have access to several configurations once the GoFAST instance is started
 
@@ -122,7 +122,7 @@ You will have to choose a login, password and email address linked to this 'admi
    
 
 Step 5 : Finish Configuration 
-------------------------------
+`````````````
 
 This last step is a summary of all informations entered in the previous steps for your GoFAST Community
 
@@ -136,3 +136,13 @@ This last step is a summary of all informations entered in the previous steps fo
 
 Get Started ! 
 -------------
+
+You will need to create some users and collaboratives spaces (and sub spaces).
+
+Spaces can be from different types, "Organization" (departements, ...), "Groups" (projects, ...), "Extranet" (partners, customers, ...)
+
+In those spaces add the users that can have access to the content in this space. Add subspaces if needed.
+
+Add content using drap&drop in the GoFAST File Browser.
+
+You are ready to start !
