@@ -63,7 +63,7 @@ On this screen you will describe every part of the FQDN of GoFAST, ex. ``gofast.
    3. **New extension** : This is the TLD, the last part of the url ex. ``com`` 
 
 
-Etape 2 : Configure SSL Certificate 
+Step 2 : Configure SSL Certificate 
 -----------------------------------
 
 At this step you will have 2 configuraiton possibilities.
