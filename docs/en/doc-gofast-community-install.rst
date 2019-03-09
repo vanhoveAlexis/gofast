@@ -8,7 +8,11 @@ Instructions (for AWS Marketplace)
 ------------
 https://aws.amazon.com/marketplace/pp/B07NPZHPG3
 
+.. caution:: Don't forget to choose ``defaut`` "Security Group" to allow 22 (ssh) and 443 (https) inbound trafic
+
 Instantiate GoFAST then go to the `Configuration`_ section
+
+
 
 Instructions (from image)
 ------------
