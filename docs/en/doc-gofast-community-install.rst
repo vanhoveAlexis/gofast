@@ -25,7 +25,7 @@ Instructions (from image)
 
  For you information ``login : root`` ``password : @C0mmunity!`` (with a 0 not O)
 
-.. WARNING :: 
+.. WARNING:: 
    Change immediately your root password 
 
 –Step 4: Enter ``https://your_ip_address`` and configure the platform
