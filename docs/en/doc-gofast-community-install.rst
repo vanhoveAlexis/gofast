@@ -12,6 +12,8 @@ https://aws.amazon.com/marketplace/pp/B07NPZHPG3
 
 Instantiate GoFAST then go to the `Configuration`_ section
 
+ For you information ``login : centos`` 
+
 
 
 Instructions (from image)
